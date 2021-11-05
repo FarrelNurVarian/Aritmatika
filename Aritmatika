@@ -1,0 +1,53 @@
+public class Penjumlahan {
+    public static void main(String[] args) {
+        double p, l, rumus;
+        p=10;
+        l=10;
+        rumus=p+l;
+        System.out.println("hasil "+ rumus);
+    }
+}
+
+
+public class pengurangan {
+    public static void main(String[] args) {
+        double p, l, rumus;
+        p=10;
+        l=10;
+        rumus=p-l;
+        System.out.println("hasil "+ rumus);
+    }
+}
+
+
+public class perkalian {
+    public static void main(String[] args) {
+        double p, l, rumus;
+        p=10;
+        l=10;
+        rumus=p*l;
+        System.out.println("hasil "+ rumus);
+    }
+}
+
+
+public class pembagian {
+    public static void main(String[] args) {
+        double p, l, rumus;
+        p=10;
+        l=10;
+        rumus=p/l;
+        System.out.println("hasil "+ rumus);
+    }
+}
+
+
+public class sisa hasil bagi {
+    public static void main(String[] args) {
+        double p, l, rumus;
+        p=10;
+        l=10;
+        rumus=p&l;
+        System.out.println("hasil "+ rumus);
+    }
+}
